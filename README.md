@@ -1,4 +1,4 @@
-### Olá sou Mateus Vitor, estudante de tecnologia na Universidade Paulista! 
+### Olá sou Mateus Vitor, estudante de tecnologia ! 
 
 <div align="center">
   <a href="https://github.com/Mateusv01">
